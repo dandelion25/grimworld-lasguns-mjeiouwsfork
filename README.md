@@ -7,7 +7,7 @@ Most of the changes I've made:
 - added four new sounds I mixed, in an effort to more closely match actual lasgun pews. I did not succeed. Still cool though.
 - guns are made with plasteel, uranium, and components, because that's what made the most sense to me. Maybe should have switched for one or two advanced components, but what goes.
 - Accatran and laspistols currently both fire the same damage round, which also has a much higher chance of starting fires.
-- This mod is a little unbalanced! But I didn't care at the time, 'cuz I made this for myself.
+- This fork is a little unbalanced! But I didn't care at the time, 'cuz I made this for myself.
 - The Kantrael should be roughly equivalent to an burny, armour-penetrating assault rifle.
 - lucius MVP.
 - Sloppily recoloured the guns to be grey; red and green looked a little festive in my concrete colony.
