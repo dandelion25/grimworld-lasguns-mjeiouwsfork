@@ -10,8 +10,4 @@ Most of the changes I've made:
 - This mod is a little unbalanced! But I didn't care at the time, 'cuz I made this for myself.
 - The Kantrael should be roughly equivalent to an burny, armour-penetrating assault rifle.
 - lucius MVP.
-- Sloppily recoloured the guns to be grey, hence the modname; this is the rim, and the rim got room for nothin' but paint.
-
-random musing: can i hijack the VFEL overheat mechanic to hurt the guns, instead of the people? Maybe keep explosive failure for low durability ones.
-
-consideration: i small brain, i will probably cry
+- Sloppily recoloured the guns to be grey, hence the modname; red and green looked a little festive in my concrete colony.
